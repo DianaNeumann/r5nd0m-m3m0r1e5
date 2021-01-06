@@ -20,3 +20,4 @@ for ((i=0; i<${len}; i++));
 do
     echo ${vendor[i]}": "${ip[i]}" - "${mac[i]}
 done
+
